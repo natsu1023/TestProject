@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Treasure
+comment1.params=
+comment1.target=Treasure()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Treasure\r\n
+comment2.params=
+comment2.target=int\ getTreasuresLeft()
+comment2.text=\r\n\ getTreasuresLeft\ method.\r\n\ @return\ The\ treasures\ left\ in\ the\ game.\r\n
+comment3.params=
+comment3.target=int\ getTreasuresFound()
+comment3.text=\r\n\ getTreasuresLeft\ method.\r\n\ @return\ The\ treasures\ left\ in\ the\ game.\r\n
+comment4.params=
+comment4.target=int\ getTriesLeft()
+comment4.text=\r\n\ getTreasuresLeft\ method.\r\n\ @return\ The\ treasures\ left\ in\ the\ game.\r\n
+comment5.params=
+comment5.target=void\ found()
+comment5.text=\r\n\ treasuresFound\ method.\r\n\ adds\ 1\ to\ treasures\ found.\r\n
+comment6.params=
+comment6.target=void\ buttonClicked()
+comment7.params=
+comment7.target=boolean\ isGameOver()
+comment8.params=
+comment8.target=void\ TreasureHoarder()
+numComments=9
